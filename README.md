@@ -1,2 +1,2 @@
 # Python-Book
-Let learn Python
+Lets learn Python
